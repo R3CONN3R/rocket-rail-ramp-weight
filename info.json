@@ -5,7 +5,7 @@
   "author": "R3CONN3R",
   "homepage": "https://mods.factorio.com/mod/rocket-rail-ramp-weight",
   "description": "Very tiny mod that changes rail-ramp/rail-support rocket stack size to 10",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": [
     "base"
   ],
